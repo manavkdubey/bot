@@ -5,7 +5,7 @@ from discord.ext import commands
 
 class info(commands.Cog):
     def __init__(self, bot):
-        self.bot = bot
+        self.bot = botgfhtdgsfhd
 
     @commands.command()
     async def info(self, ctx, member: discord.Member = None):
